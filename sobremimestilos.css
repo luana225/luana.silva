@@ -1,0 +1,148 @@
+body {
+    background: #B8CBDB;
+}
+
+nav li {
+   
+
+
+    display: inline;
+    font-family: "Amaranth Regular";
+    color: #FFFDEC;
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+
+.menuativo {
+    padding-left: 840px;
+    padding-top: 20px;
+    color: #FFFDEC;
+}
+
+.menuativo:hover {
+    color: #EFB14D;
+
+}
+
+
+.sobremim {
+    padding-left: 40px;
+    color: #EFB14D;
+}
+
+
+.sobremim:hover {
+    color: #EFB14D;
+
+}
+
+.portfolio {
+    padding-left: 40px;
+}
+
+.portfolio:hover {
+    color: #EFB14D;
+}
+
+.contactos {
+    padding-left: 40px;
+}
+
+.contactos:hover {
+    color: #EFB14D;}
+
+
+
+
+h1 { 
+
+    font-family: "Amaranth Regular";
+    color: #FFFDEC;
+    font-size: 50px;
+    text-align: center;
+}
+
+.fotolu {
+
+    margin-left: 850px;
+
+    margin-top: -450px;
+}
+
+.pordosol {
+
+    margin-left: 900px;
+
+    margin-top: -300px;
+}
+
+h3 {
+
+    font-family: "Amaranth Regular";
+    color: #EFB14D;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+p {
+
+    font-family: "Verdana Pro";
+    color: #FFFDEC;
+    font-size: 16px;
+    margin-left: 80px;
+    margin-right: 700px;
+}
+
+.palavraluana {
+    color: #EFB14D;
+}
+
+.palavrasão {
+    color: #EFB14D;
+}
+
+.palavracurso {
+    color: #EFB14D;
+}
+
+.interesses {
+
+    display: inline;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 150px;
+    color: #EFB14D;
+
+}
+
+.palavrainteresse {
+    color: #EFB14D;
+}
+
+.textoformação {
+
+    margin-right: 80px;
+    margin-left: 700px;
+
+    text-align: left;
+
+
+}
+
+
+.certificado {
+
+    margin-left: 100px;
+
+    margin-bottom: 150px;
+    margin-top: -700px;
+}
+
+.banda {
+
+    margin-left: 30px;
+
+    margin-top: -300px;
+margin-bottom: 50px;}

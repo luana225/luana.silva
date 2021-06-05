@@ -1,0 +1,115 @@
+body {
+    background: #B8CBDB;
+}
+
+nav li {
+
+
+    display: inline;
+    font-family: "Amaranth Regular";
+    color: #FFFDEC;
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+
+.menuativo {
+    padding-left: 840px;
+    padding-top: 20px;
+    color: #FFFDEC;
+}
+
+.menuativo:hover {
+    color: #EFB14D;
+
+}
+
+
+.sobremim {
+    padding-left: 40px;
+
+}
+
+
+.sobremim:hover {
+    color: #EFB14D;
+
+}
+
+.portfolio {
+    padding-left: 40px;
+
+}
+
+.portfolio:hover {
+    color: #EFB14D;
+
+}
+
+.contactos {
+    color: #EFB14D;
+    padding-left: 40px;
+}
+
+.contactos:hover {
+    color: #EFB14D;
+
+}
+
+h1 {
+
+    font-family: "Amaranth Regular";
+    color: #FFFDEC;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+section {
+    margin: 50px auto;
+    width: 1025px;
+    height: 150px;
+}
+
+.rede {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 185px;
+    border-radius: 50%
+}
+
+.rede:hover {
+    cursor: pointer;
+    
+}
+
+.rede#facebook {
+    background-color: #EFB14D
+}
+
+.iconefb {
+    margin: 0px auto;
+    padding: 25px;
+    width: 50px;
+}
+
+.rede#instagram {
+    background-color: #EFB14D
+}
+
+.iconeinsta {
+    margin: 0px auto;
+    padding: 25px;
+    width: 50px;
+}
+.rede#gmail {
+    background-color: #EFB14D
+}
+
+.iconemail {
+    margin: 0px auto;
+    padding: 20px;
+    width: 60px;
+}
+.fotocontactos{margin-left: 300px}

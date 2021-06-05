@@ -1,0 +1,264 @@
+body {
+    background: #B8CBDB;
+}
+
+nav li {
+
+
+    display: inline;
+    font-family: "Amaranth Regular";
+    color: #FFFDEC;
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+
+.menuativo {
+    padding-left: 840px;
+    padding-top: 20px;
+    color: #FFFDEC;
+}
+
+.menuativo:hover {
+    color: #EFB14D;
+
+}
+
+
+.sobremim {
+    padding-left: 40px;
+
+}
+
+
+.sobremim:hover {
+    color: #EFB14D;
+
+}
+
+.portfolio {
+    padding-left: 40px;
+    color: #EFB14D;
+}
+
+.portfolio:hover {
+    color: #EFB14D;
+
+}
+
+.contactos {
+    padding-left: 40px;
+}
+
+.contactos:hover {
+    color: #EFB14D;
+
+}
+
+h1 {
+
+    font-family: "Amaranth Regular";
+    color: #FFFDEC;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+table {
+    color: #FFFDEC;
+    padding: 10px;
+
+
+    margin-left: 400px;
+    ;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #EFB14D;
+}
+
+tr {
+    font-family: "Verdana Pro";
+    color: #FFFDEC;
+
+}
+
+.textotabela {
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: "Amaranth Regular";
+    color: #EFB14D;
+    font-size: 20px;
+    text-align: center
+}
+
+h2 {
+    margin-top: 90px;
+    font-family: "Amaranth Regular";
+    color: #FFFDEC;
+    font-size: 40px;
+    text-align: center
+}
+
+video {
+    padding-left: 250px;
+    padding-top: 10px;
+
+}
+
+img {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.tituloanimalpain {margin-top: 30px;}
+
+.animalpain {
+    font-family: "Verdana Pro";
+    color: #FFFDEC;
+    font-size: 16px;
+    margin-left: 580px;
+    margin-right: 250px;
+    margin-top: -285px;
+}
+
+.desenvolvimentopessoal {
+    color: #EFB14D;
+}
+
+.arrepios {
+    color: #EFB14D;
+}
+
+.rapariga {
+    color: #EFB14D;
+}
+
+.titulochair {
+    margin-top: 100px;
+}
+
+.tituloexpo {
+    margin-top: 20px;
+}
+
+.logo1 {
+    margin-left: 170px;
+}
+
+.textologo {
+    font-family: "Verdana Pro";
+    color: #FFFDEC;
+    font-size: 16px;
+    margin-left: 580px;
+    margin-right: 250px;
+    margin-top: -365px;
+}
+
+.concursonacional {
+    color: #EFB14D;
+}
+
+.exposiçao {
+    color: #EFB14D;
+}
+
+.bussola {
+    color: #EFB14D;
+}
+
+.logo2 {
+    margin-left: 580px;
+}
+
+.logo3 {
+    margin-left: 850px;
+    margin-top: -165px;
+}
+
+.textocadeira {
+    font-family: "Verdana Pro";
+    color: #FFFDEC;
+    font-size: 16px;
+    padding-left: 530px;
+    padding-right: 500px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.cadeira1 {
+    margin-left: 180px;
+    margin-top: -350px;
+}
+
+.cadeira2 {
+    margin-left: 900px;
+    margin-top: -350px;
+}
+
+.capacidade {
+    color: #EFB14D;
+}
+
+.ergonomia {
+    color: #EFB14D;
+}
+
+.contentor {
+    color: #EFB14D;
+}
+
+
+
+.foto1 {
+    margin-left: 220px;
+
+
+}
+
+.foto2 {
+    margin-left: 450px;
+    margin-top: -300px;
+    margin-bottom: 50px;
+
+
+}
+
+.foto3 {
+    margin-left: 690px;
+    margin-top: -350px;
+
+
+
+}
+
+.foto4 {
+    margin-left: 920px;
+    margin-top: -350px;
+
+
+
+}
+
+.textofoto {
+    font-family: "Verdana Pro";
+    color: #FFFDEC;
+    font-size: 16px;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 420px;
+    padding-bottom: 20px;
+}
+
+.grandes {
+    color: #EFB14D;
+}
+
+.relaxada {
+    color: #EFB14D;
+}
+
